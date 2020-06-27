@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="ripple_effect">#318FB6</color>
+    <color name="color_blue">#133F92</color>
+    <color name="color_fio">#673AB7</color>
+    <color name="lite">#6C83DD</color>
+    <color name="dark">#000000</color>
+    <color name="ripler">#38A5D8</color>
+</resources>

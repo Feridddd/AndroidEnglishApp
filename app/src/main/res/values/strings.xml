@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyEnglish</string>
+    <string name="text_bottom">Ввійдіть в ваш обліковий запис</string>
+    <string name="btn_SignIn">Ввійти</string>
+    <string name="btn_Register">Зареєструватися</string>
+    <string name="btn_Play">Quiz</string>
+    <string name="text_PastSimple">
+        Past Simple - простий минулий час
+        Час Past Simple використовується для визначення дії, яка сталась в визначений
+        час в минулому і час виконання якого вже пройшло.
+    Використання Past Simple
+
+Стверджуючі речення:
+I played	We played
+You played	You played
+He / she / it played	They played
+
+    Питальні речення:
+Did I play?	Did we play?
+Did you play?	Did you play?
+Did he / she / it play?	Did they play?
+
+  Заперечні речення:
+I did not play	    We did not play
+You did not play	You did not play
+He / she / it did not play	They did not play </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

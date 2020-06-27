@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "626017364616",
+    "firebase_url": "https://myenglish-7582a.firebaseio.com",
+    "project_id": "myenglish-7582a",
+    "storage_bucket": "myenglish-7582a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626017364616:android:c4d1a1b5cda84a50a8cd3d",
+        "android_client_info": {
+          "package_name": "com.dohru.myenglish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626017364616-22qqfuk64fvgsk0atk25hdtjp07m07jk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dohru.myenglish",
+            "certificate_hash": "9647715bc530cc10c4b2641f9f2789abc3b5afa5"
+          }
+        },
+        {
+          "client_id": "626017364616-1dgofji30d85tguj1hfnl0q7fce646ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7s_8tAL5-V64Qrxd3wbv3lSckwOookwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626017364616-1dgofji30d85tguj1hfnl0q7fce646ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

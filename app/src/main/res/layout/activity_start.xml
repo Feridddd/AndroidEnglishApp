@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back_ground_colour"
+    tools:context=".Start">
+
+   <!--<ImageView
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:src="@drawable/icon"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="25dp"/>
+-->
+    <androidx.cardview.widget.CardView
+        app:cardElevation="4dp"
+        android:layout_centerInParent="true"
+        android:layout_margin="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_below="@+id/infoLogin"
+            android:orientation="vertical"
+            android:weightSum="2"
+            android:layout_margin="8dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        <Button
+            android:layout_weight="1"
+            android:id="@+id/btnPlay"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_margin="8dp"
+            android:background="@color/color_blue"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_Play"
+            android:textColor="@color/colorWhite"
+            android:textStyle="bold"
+            android:theme="@style/MyButtonPlay"/>
+
+        <Button
+            android:layout_weight="1"
+            android:id="@+id/btnLearn"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_margin="8dp"
+            android:background="@color/color_blue"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Theory"
+            android:textColor="@color/colorWhite"
+            android:textStyle="bold"
+            android:theme="@style/MyButtonPlay"/>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+
+</RelativeLayout>
